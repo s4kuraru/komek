@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882728810959",
+    "project_id": "komek-448aa",
+    "storage_bucket": "komek-448aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882728810959:android:b142d1af96b11ed3a4faba",
+        "android_client_info": {
+          "package_name": "com.example.komek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqv7Tz9ZwD0DfCzrs3BPfhrdFa9mbUze0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

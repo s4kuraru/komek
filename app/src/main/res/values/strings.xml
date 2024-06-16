@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Komek</string>
+    <string name="app_description">KÖMEK FOR STUDENTS</string>
+    <string name="app_signup">РЕГИСТРАЦИЯ</string>
+    <string name="app_login">ВОЙТИ</string>
+    <string name="app_logout">Выйти</string>
+    <string name="signup_mail">Почта</string>
+    <string name="signup_passcode">Придумайте пароль</string>
+    <string name="signup_password">Пароль</string>
+    <string name="signup_name">Имя</string>
+    <string name="signup_surname">Фамилия</string>
+    <string name="signup_grade">Класс</string>
+    <string name="signup_confirmpsw">Подтвердите пароль</string>
+    <string name="signin_psw">Пароль</string>
+    <string name="signup_link">У вас нет аккаунта? Регистрация</string>
+    <string name="main_title">Учись с нами!</string>
+    <string name="main_maths">Математика 1-6 классы</string>
+    <string name="main_eng">Английский язык A1-B2</string>
+    <string name="main_uni">ВУЗы и поступление</string>
+    <string name="main_rus">Русский язык 1-6 классы</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_maths">Математика</string>
+    <string name="nav_eng">Английский язык</string>
+    <string name="nav_rus">Русский язык</string>
+    <string name="nav_uni">ВУЗы и поступление</string>
+    <string name="nav_profile">Профиль</string>
+    <string name="nav_logout">Выход</string>
+    <string name="nav_open">Открыть навигацию</string>
+    <string name="nav_close">Закрыть навигацию</string>
+    <string name="nav_qa">Q&amp;A</string>
+    <string name="qa_title">МОИ КУРАТОРЫ</string>
+    <string name="qa_message">Куратор 1</string>
+    <string name="qa_find">Нет куратора? Оставить заявку</string>
+    <string name="uni_title">Вас интересует поступление в...</string>
+    <string name="uni_kz">КАЗАХСТАНСКИЕ ВУЗЫ</string>
+    <string name="uni_inter">ЗАРУБЕЖНЫЕ ВУЗЫ</string>
+    <string name="uni_consult">Персональная консультанция</string>
+
+</resources>
