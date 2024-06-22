@@ -35,5 +35,6 @@
     <string name="uni_kz">КАЗАХСТАНСКИЕ ВУЗЫ</string>
     <string name="uni_inter">ЗАРУБЕЖНЫЕ ВУЗЫ</string>
     <string name="uni_consult">Персональная консультанция</string>
+    <string name="support">Тех. поддержка</string>
 
 </resources>
